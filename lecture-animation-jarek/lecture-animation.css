@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#arm{
+    animation: arm-move 3s ease-in-out infinite alternate;
+    transform-origin: center;
+    transform-box: fill-box;
+    
+}
+
+#drawing{
+    animation: drawing-appear 3s ease-in infinite alternate;
+    transform-origin: center;
+    transform-box: fill-box;
+    
+}
+@keyframes arm-move{
+    0%{
+        transform: rotateZ(0deg) translateX(0px) translateY(0);
+        
+        
+    }
+    
+   
+    100%{
+        transform: translateX(21px)translateY(-34px) rotatez(-60deg);
+       
+        
+        
+    }
+}
+@keyframes drawing-appear{
+    0%{
+        opacity: 0;
+    }
+    
+    100%{
+        opacity: 1;
+    }
+}
