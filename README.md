@@ -10,8 +10,8 @@ I made this website for my dad and I'd like to share :)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 ## General info
-It's one of my first 'bigger' website that I have made, so there might be some bugs e.g: problem with scalling on certain resolutions. Despite of that, website is fully 
-responsive on mobile. In total there are seven pages, which are in polish btw. I added only two gif from main page to show you more appealing side of this site:D, and on others is 80% text, rest of it is styling and some ornaments. There is also a website counter.
+It's one of my first 'bigger' website that I have made, its
+mobile responsive so thats a thing for me:D. In total there are seven pages, which are in polish btw. I added only two gif from main page to show you more appealing side of this site:D, and on others is 80% text, rest of it is styling and some ornaments. There is also a website counter.
 ## Gifs
 
 
